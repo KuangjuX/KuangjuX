@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-
+<!--
 name: KuangjuX
 
 on:
@@ -30,5 +30,6 @@ jobs:
     steps:
       - uses: KuangjuX/KuangjuX@master
         with:
-          WAKATIME_API_KEY: ${{8331d97b-19cf-4264-88d6-0aa7cdf1c5c0}}        
+          WAKATIME_API_KEY: ${{8331d97b-19cf-4264-88d6-0aa7cdf1c5c0}}   
+          -->     
 <!--END_SECTION:waka-->
