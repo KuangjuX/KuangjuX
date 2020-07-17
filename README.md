@@ -5,31 +5,13 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Web projects 
+- 🌱 I’m currently learning Vue.js and Docker
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about BackEnd
+- 📫 How to reach me: [我的主站](http://mainsite.kuangjux.top)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--START_SECTION:waka-->
-<!--
-name: KuangjuX
-
-on:
-  schedule:
-    # Runs at 05:34am UTC
-    - cron: '0 0 * * *'
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: KuangjuX/KuangjuX@master
-        with:
-          WAKATIME_API_KEY: ${{8331d97b-19cf-4264-88d6-0aa7cdf1c5c0}}   
-          -->     
-<!--END_SECTION:waka-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
