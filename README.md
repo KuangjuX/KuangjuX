@@ -3,15 +3,8 @@
 <!--
 **KuangjuX/KuangjuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+This is my [**Page**](http://mainsite.kuangjux.top/)  
+This is my [**Blog**](https://kaungju.world/)  
 
-- 🔭 I’m currently working on Web projects 
-- 🌱 I’m currently learning Vue.js and Docker
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about BackEnd
-- 📫 How to reach me: [My Personal Website](http://mainsite.kuangjux.top)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
