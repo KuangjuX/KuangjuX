@@ -13,8 +13,8 @@
 
 ## About
 
-This is my [**Page**](http://mainsite.kuangjux.top/)  
-This is my [**Blog**](https://kaungju.world/)  
+- This is my [**Page**](http://mainsite.kuangjux.top/)  
+- This is my [**Blog**](https://kaungju.world/)  
 
 
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)
