@@ -4,7 +4,7 @@
 **KuangjuX/KuangjuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## tech
+## Tech
 
 - Use PHP in BackEnd once, studying Golang currently
 - Use Vue and JavaScript in FrontEnd
