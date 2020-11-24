@@ -6,7 +6,7 @@
 
 ## Tech
 
-- Use PHP in BackEnd once, studying Golang currently
+- Use PHP in BackEnd once, Studying Golang currently
 - Use Vue and JavaScript in FrontEnd
 - Use Python in machine learning and implement of some simple tools
 - Try to build a simple Database in C
