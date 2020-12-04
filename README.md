@@ -12,7 +12,8 @@
 - Try to build a simple Database in C
 
 ## About
-
+- Undergraduate in TJU 
+- Novice Web Developer 
 - This is my [**Page**](http://mainsite.kuangjux.top/)  
 - This is my [**Blog**](https://kaungju.world/)  
 
