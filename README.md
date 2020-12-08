@@ -32,11 +32,18 @@
 ## About
 
 - Undergraduate in TJU 
+
 - Novice Web Developer 
+
 - Expected to be an excellent software engineer and system level programmer
+
 - [![Github Badge][Github-Badge]][Github-Link]
+
 - [![Page Badge][Page-Badge]][Page-Link]
+
 - [![Blog Badge][Blog-Badge]][Blog-Link]
+
+    ## Stats
 
 
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)
