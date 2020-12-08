@@ -35,7 +35,7 @@
 
 - Novice Web Developer 
 
-- Expected to be an excellent software engineer and system level programmer
+- Expect to be an excellent software engineer and system level programmer
 
 - [![Github Badge][Github-Badge]][Github-Link]
 
