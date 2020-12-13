@@ -22,7 +22,7 @@
 ![Go Badge][Go-Badge]
 ![PHP Badge][PHP-Badge]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About
 
@@ -38,7 +38,7 @@
 
 - [![Blog Badge][Blog-Badge]][Blog-Link]
 
-    ## Stats
+    ## Github Stats
 
 
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)
