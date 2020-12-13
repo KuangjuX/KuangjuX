@@ -14,19 +14,12 @@
 ## Languages:
 
 ![HTML5 Badge][HTML5-Badge]
-
 ![CSS3 Badge][CSS3-Badge]
-
 ![JavaScript Badge][JavaScript-Badge]
-
 ![C Badge][C-Badge]
-
 ![Cpp Badge][Cpp-Badge]
-
 ![Python Badge][Python-Badge]
-
 ![Go Badge][Go-Badge]
-
 ![PHP Badge][PHP-Badge]
 
 ## About
