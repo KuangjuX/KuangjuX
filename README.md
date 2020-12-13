@@ -22,6 +22,8 @@
 ![Go Badge][Go-Badge]
 ![PHP Badge][PHP-Badge]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About
 
 - Undergraduate in TJU 
