@@ -22,8 +22,7 @@
 ![Go Badge][Go-Badge]
 ![PHP Badge][PHP-Badge]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=5&exclude_repo=KuangjuX.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## About
 
@@ -42,7 +41,10 @@
     ## Github Stats
 
 
-![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)
+![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=5&exclude_repo=KuangjuX.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
