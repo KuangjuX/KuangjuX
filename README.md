@@ -42,6 +42,26 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=100&layout=compact&count_private=true&hide=html,css,assembly,perl,cmake&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)](https://github.com/anuraghazra/github-readme-stats)
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&count_private=true) 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        4 hrs 9 mins        ████████████████░░░░░░░░░   67.05% 
+Python                   1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   22.29% 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+
+🔥 Editors: 
+VS Code                  6 hrs 12 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    4 hrs 46 mins       ███████████████████░░░░░░   76.95% 
+Windows                  1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   23.05%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 
