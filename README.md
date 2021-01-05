@@ -32,11 +32,7 @@
 
 - Expect to be an excellent software engineer and system level programmer
 
-- [![Github Badge][Github-Badge]][Github-Link]
-
-- [![Page Badge][Page-Badge]][Page-Link]
-
-- [![Blog Badge][Blog-Badge]][Blog-Link]
+- [![Github Badge][Github-Badge]][Github-Link] [![Page Badge][Page-Badge]][Page-Link] [![Blog Badge][Blog-Badge]][Blog-Link]
 
     ## Github Stats
 
@@ -44,9 +40,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=100&layout=compact&count_private=true&hide=html,css,assembly,perl,cmake&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX&v=2&layout=compact&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe)](https://github.com/anuraghazra/github-readme-stats)  
 ![KuangjuX's github stats](https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&count_private=true) 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- #region Links -->
