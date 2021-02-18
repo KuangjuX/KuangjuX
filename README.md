@@ -12,7 +12,7 @@
         </td>
        <td valign="top" width="50%">
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+           📊 <strong>This Week I Spent My Time On</strong>
 
 ```text
 💬 Programming Languages: 
