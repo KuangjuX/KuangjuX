@@ -6,10 +6,8 @@
 
 ## Tech
 
-- Use PHP in BackEnd once, Studying Golang currently
-- Use Vue and JavaScript in FrontEnd
-- Use Python in machine learning and implement of some simple tools
-- Try to build a simple Database in C
+- Studying RabbitMQ/Kafka, gRPC, Rust, OS
+- Try to finish rCore
 
 ## Languages:
 
@@ -28,9 +26,7 @@
 
 - Undergraduate in TJU 
 
-- Novice Web Developer 
-
-- Expect to be an excellent software engineer and system level programmer
+- Interested in Computer System and Web Backend
 
 - [![Github Badge][Github-Badge]][Github-Link] [![Page Badge][Page-Badge]][Page-Link] [![Blog Badge][Blog-Badge]][Blog-Link]
 
