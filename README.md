@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
-
+<p><img src="https://w.wallhaven.cc/full/nz/wallhaven-nz1e8j.jpg"></p>
 <table>
     <tr>
         <td valign="center" width="50%">
@@ -13,6 +13,7 @@
        <td valign="top" width="50%">
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
+
 
 ```text
 💬 Programming Languages: 
