@@ -4,9 +4,8 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li>I'm an undergraduate in Tianjin University</li>
-                <li>I'm currently studying RabbitMQ/Kafka, Rust, OS</li>
-                <li>I'm trying to finish rCore</li>
+                <li>I'm an 2th undergraduate in Tianjin University</li>
+                <li>I'm currently working in OS now.</li>
                 <li>I'm interested in Computer System and Web Backend</li>
             </ul>
         </td>
