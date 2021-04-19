@@ -35,4 +35,4 @@ Windows                  1 hr 32 mins        ██░░░░░░░░░�
 </td></tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX)](https://github.com/anuraghazra/github-readme-stats)
+
