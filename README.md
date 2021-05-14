@@ -4,9 +4,9 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li>I'm a second-year undergraduate of Tianjin University</li>
+                <li>I'm a second-year undergraduate in Tianjin University</li>
                 <li>I'm currently working in OS now.</li>
-                <li>I'm interested in Computer System and I have a little knowledge on Web Backend</li>
+                <li>I'm interested in Computer System and I have a little knowledge about Web Backend</li>
                 <li>I'm studying async/await feature in Rust, I feel hard about this.</li>
             </ul>
         </td>
