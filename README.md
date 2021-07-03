@@ -6,7 +6,7 @@
         <p><img src="https://github-readme-stats.vercel.app/api?username=KuangjuX&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" height="300"></p>
         </td>
         <td width="50%">
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=KuangjuX.github.io,TJU-Watermelon&hide=VHDL,Verilog" height="300"></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=KuangjuX.github.io,TJU-Watermelon&hide=VHDL,Verilog&theme=tokyonight&cache_seconds=1800" height="300"></p>
         </td>
     </tr>
 </table>
@@ -23,7 +23,7 @@
         </td>
        <td valign="top" width="50%">
            <p>
-              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX" height = "300" width="100%">
+              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX&theme=tokyonight&layout=compact" height = "300" width="100%">
            </p>
 </td></tr>
 </table>
