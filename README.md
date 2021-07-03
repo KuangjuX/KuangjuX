@@ -1,38 +1,20 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
-<p><img src="https://w.wallhaven.cc/full/nz/wallhaven-nz1e8j.jpg"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=KuangjuX&theme=onedark" width="500"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=KuangjuX&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" width="500"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=KuangjuX.github.io,TJU-Watermelon&hide=VHDL,Verilog" width="500"></p>
 <table>
     <tr>
         <td valign="center" width="50%">
             <ul>
                 <li>I'm an undergraduate in Tianjin University</li>
                 <li>I'm currently studying RabbitMQ/Kafka, Rust, OS</li>
-                <li>I'm trying to finish rCore</li>
+                <li>I'm trying to re-implement xv6-riscv in Rust</li>
                 <li>I'm interested in Computer System and Web Backend</li>
             </ul>
         </td>
        <td valign="top" width="50%">
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-
-```text
-💬 Programming Languages: 
-Go                       4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   42.51% 
-Rust                     3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.11% 
-YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-NASM                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-
-🔥 Editors: 
-VS Code                  10 hrs 3 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  5 hrs 58 mins       ██████████████░░░░░░░░░░░   59.47% 
-Linux                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.53%
-
-```
-
-
-<!--END_SECTION:waka-->
+           <p>
+              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KuangjuX" height = "300">
+           </p>
 </td></tr>
 </table>
