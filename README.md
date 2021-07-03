@@ -4,7 +4,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=KuangjuX.github.io,TJU-Watermelon&hide=VHDL,Verilog" width="100%"></p>
 <table>
     <tr>
-        <td valign="center" width="50%">
+        <td valign="center" width="50%" style="font-size:24px">
             <ul>
                 <li>I'm an undergraduate in Tianjin University</li>
                 <li>I'm currently working in OS now.</li>
