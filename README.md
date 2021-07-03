@@ -2,8 +2,8 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=KuangjuX&theme=onedark" width="100%"></p>
 <table>
     <tr>
-        <td valign="center" width="50%" style="font-size:24px">
-            <ul>
+        <td valign="center" width="50%" >
+            <ul style="font-size:24px">
                 <li>I'm an undergraduate in Tianjin University</li>
                 <li>I'm currently working in OS now.</li>
                 <li>I'm interested in Computer System and I have a little knowledge about Web Backend</li>
