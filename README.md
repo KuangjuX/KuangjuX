@@ -6,9 +6,9 @@
             <ul style="font-size:24px">
                 <li>I'm an undergraduate in Tianjin University</li>
                 <li>I'm currently working in OS now.</li>
-                <li>I'm interested in Computer System and I have a little knowledge about Web Backend</li>
+                <li>I'm interested in Computer System and I have some knowledge about Web Backend</li>
                 <li>I'm studying async/await feature in Rust.</li>
-                <li>I intend to study MIT 6.824.</li>
+                <li>I'm studying MIT 6.824.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
