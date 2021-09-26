@@ -8,7 +8,8 @@
                 <li>I'm currently working in OS now.</li>
                 <li>I'm interested in Computer System and I have some knowledge about Web Backend</li>
                 <li>I'm studying async/await feature in Rust.</li>
-                <li>I'm studying MIT 6.824.</li>
+                <li>I'm studying MIT 6.824 and reading DDIA(Desgining Data-Intensive Applications).</li>
+                <li>I'm writting leetcode in Rust.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
