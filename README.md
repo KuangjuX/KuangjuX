@@ -14,7 +14,7 @@
         </td>
        <td valign="top" width="50%">
            <p>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=KuangjuX.github.io,TJU-Watermelon&hide=VHDL,Verilog, Assembly&theme=tokyonight&cache_seconds=1800" height="300">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&langs_count=10&layout=compact&exclude_repo=blog,TJU-Watermelon&hide=VHDL,Verilog, Assembly&theme=tokyonight&cache_seconds=1800" height="300">
            </p>
         </td>
     </tr>
