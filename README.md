@@ -4,4 +4,4 @@
 - Interested in OS Kernel && Embedded System && Distributed Systems
 - I'm struggling for Postgraduate Exam
 - I'm playing with Rasperry Pi 4
-- I want to finish MIT 6.824 and CS 107e
+- I want to finish MIT 6.824 and CS107e
