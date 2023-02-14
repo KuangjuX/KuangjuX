@@ -8,7 +8,7 @@ I built operating systems in Rust:
 
 I also built hypervisor(VMM) in Rust:
 - [hypocaust](https://github.com/KuangjuX/hypocaust): A S mode trap and emulate type-1 hypervisor run on RISC -V machine.
-- [hypocaust](https://github.com/KuangjuX/hypocaust): A hardware dependent with H extension type-1 hypervisor run on RISC -V machine.
+- [hypocaust-2](https://github.com/KuangjuX/hypocaust-2): A hardware dependent with H extension type-1 hypervisor run on RISC -V machine.
 
 Others:
 - [About Me](http://kuangjux.top/)
