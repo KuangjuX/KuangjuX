@@ -1,9 +1,15 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=KuangjuX&theme=onedark" width="100%"></p>
 
-- Interested in OS Kernel && Embedded System && Distributed Systems
-- I'm struggling for Postgraduate Exam
-- I'm playing with Rasperry Pi 4
-- I want to finish MIT 6.824 and CS107e
+I built operating systems in Rust:
+
+- [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust): A reimplementation of xv6-riscv rust version.  
+- [rCore-fat](https://github.com/KuangjuX/rCore-fat): rCore-Tutorial-v3 with fat32 file system.  
+
+I also built hypervisor(VMM) in Rust:
+- [hypocaust](https://github.com/KuangjuX/hypocaust): A S mode trap and emulate type-1 hypervisor run on RISC -V machine.
+- [hypocaust](https://github.com/KuangjuX/hypocaust): A hardware dependent with H extension type-1 hypervisor run on RISC -V machine.
+
+Others:
 - [About Me](http://kuangjux.top/)
 - [Curriculum Vitae](http://kuangjux.top/file/resume.pdf)
