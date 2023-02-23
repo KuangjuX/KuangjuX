@@ -16,3 +16,4 @@ I also build hypervisor(VMM) in Rust:
 Others:
 - [About Me](http://kuangjux.top/)
 - [Curriculum Vitae](http://kuangjux.top/file/resume.pdf)
+- [简历](https://kuangjux.top/file/resume-zh_CN.pdf)
