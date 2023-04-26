@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=KuangjuX&theme=onedark" width="100%"></p>
 
-Hello, I am a undergraduate in TianJin University. I like system program in Rust.  
+Hello, I am an undergraduate in TianJin University. I like system program in Rust.  
 
 I build operating systems in Rust:  
 
