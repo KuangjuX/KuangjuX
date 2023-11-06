@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
 
-Hello, I am an undergraduate in TianJin University. I like system program in Rust. I am currently focusing on machine learning systems and AI compilers. 
+I am currently a first-year master's student at the University of Chinese Academy of Sciences. Previously, I graduated from Tianjin University with a bachelor's degree. I like system program in Rust. I am currently focusing on machine learning systems and AI compilers. 
 I am studying [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org/) and working on implementing a cross-platform AI compiler.
 
 I build operating systems in Rust:  
