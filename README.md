@@ -16,8 +16,8 @@ I also build hypervisor(VMM) in Rust:
 - [hypercraft](https://github.com/KuangjuX/hypercraft): A VMM library written in Rust.
 
 I also build an Out-of-Order RISC-V Processor Core and difftest framework based on verilator:
-- [HeliosXCore](https://github.com/HeliosXCore/HeliosXCore)
-- [HeliosXSimulator](https://github.com/HeliosXCore/HeliosXSimulator)
+- [HeliosXCore](https://github.com/HeliosXCore/HeliosXCore): A Superscalar Out-of-order RISC-V Processor Core.
+- [HeliosXSimulator](https://github.com/HeliosXCore/HeliosXSimulator): A verilator-based Soc Simulator for HeliosXCore.
 
 Others:
 - [About Me](http://kuangjux.top/)
