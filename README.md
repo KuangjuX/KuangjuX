@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
 
 I am currently a first-year master's student at the University of Chinese Academy of Sciences. Previously, I graduated from Tianjin University with a bachelor's degree. I like system program in Rust. I am currently focusing on machine learning systems and AI compilers. 
-I am working on implementing a [code generation library](https://github.com/TiledTensor/TiledKernel) based on macro kernels and memory hierarchy graph data structure.
+I am working on implementing a **[Dataflow Analysis and Codegen Framework](https://github.com/TiledTensor/ThrillerFlow)** and an **[Efficient Kernel Template Library](https://github.com/TiledTensor/TiledCUDA)**. 
 In the past, I have implemented some system projects using Rust, primarily involving operating systems and hypervisors.
 
 I build operating systems in Rust:  
