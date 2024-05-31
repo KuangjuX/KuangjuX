@@ -19,6 +19,10 @@ I also build an Out-of-Order RISC-V Processor Core and difftest framework based 
 - [HeliosXCore](https://github.com/HeliosXCore/HeliosXCore): A Superscalar Out-of-order RISC-V Processor Core.
 - [HeliosXSimulator](https://github.com/HeliosXCore/HeliosXSimulator): A verilator-based Soc Simulator for HeliosXCore.
 
+Some of my projects that have already been Archived are as follows: 
+
+https://github.com/KuangjuX-Archived
+
 Others:
 - [About Me](http://kuangjux.top/)
 - [Curriculum Vitae](http://kuangjux.top/files/resume.pdf)
