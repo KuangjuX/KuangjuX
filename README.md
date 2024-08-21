@@ -6,7 +6,7 @@ In the past, I have implemented some system projects using Rust, primarily invol
 
 Active Projects:
 
-- [TiledCUDA](https://github.com/TiledTensor/TiledCUDA): TiledCUDA is an efficient kernel template library written in CuTe, which provides a wrapper for cutlass CuTe and enables more efficient fusion.
+- [TiledCUDA](https://github.com/TiledTensor/TiledCUDA): TiledCUDA is a highly efficient kernel template library designed to elevate CUDA C’s level of abstraction for processing tiles.
 - [ThrillerFlow](https://github.com/TiledTensor/ThrillerFlow): ThrillerFlow is a Dataflow Analysis and Codegen Framework written in Rust.
 
 I build operating systems in Rust:  
