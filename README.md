@@ -7,7 +7,7 @@ In the past, I was a research intern in the MSRA System Group, where I focused o
 - [microsoft/TileFusion](https://github.com/microsoft/TileFusion) is an experimental C++ macro kernel template library that elevates the abstraction level in CUDA C for tile processing.
 - [microsoft/FractalTensor](https://github.com/microsoft/FractalTensor) is a programming framework that introduces a novel approach to organizing data in deep neural networks (DNNs) as a list of lists of statically-shaped tensors, referred to as a FractalTensor.
 
-During my time at MSRA, I was very fortunate to work with my mentor @[lcy-seso](https://github.com/lcy-seso), who is a very idealistic and capable researcher!
+During my time at MSRA, I was very fortunate to work with my mentor @[lcy-seso](https://github.com/lcy-seso), who is a very idealistic and capable researcher! We built the above two projects together and published a [paper](https://dl.acm.org/doi/10.1145/3694715.3695961) at SOSP’24.
 
 Before I joined the MSRA system group, I interned at the Operating System Laboratory of Tsinghua University, where I focused on Type-2 hypervisors and network performance on arceos:
 
