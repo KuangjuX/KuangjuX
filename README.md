@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm KuangjuX 👋 </h2>
 
-Hi, my name is Chengxiang Qi. I am currently a second-year master student in computer science at the University of Chinese Academy of Sciences. I completed my undergraduate studies at Tianjin University. My current interests are in deep learning compilers, machine learning systems, and deep learning. In the past, I have also been interested in the Rust programming language and its applications at the system level (OS, Hypervisor, etc.).
+Hi, my name is Chengxiang Qi. I am currently a second-year master student in computer science at the University of Chinese Academy of Sciences. I completed my undergraduate studies at Tianjin University. My current interests are in deep learning compilers, machine learning systems, and deep learning. In the past, I have also been interested in the Rust programming language and its applications at the system level (OS, Hypervisor, etc.). I am currently interning at Wechat LLM Infra Team.
 
 In the past, I was a research intern in the MSRA System Group, where I focused on two projects:
 
