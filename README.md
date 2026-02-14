@@ -71,17 +71,6 @@ I am a final-year master's student at the University of Chinese Academy of Scien
 
 ---
 
-### Selected Awards
-
-| Award | Organization | Year |
-|-------|-------------|------|
-| Outstanding Bachelor Thesis | Tianjin University | 2023 |
-| Third Prize in Team Competition | NSCSCC (National Student Computer System Capability Challenge) | 2022 |
-| The Best Quality Prize of OSPP | Open Source Promotion Plan (only 5 in China per year) | 2021 |
-| Third Prize in Team Competition | OSCOMP (Operating System Competition) | 2021 |
-
----
-
 ### Talks
 
 - **Hypocaust: a RISC-V Type-1 Hypervisor Written in Rust** — *OS2ATC 2022, Beijing (March 2023)*
@@ -101,9 +90,9 @@ I am a final-year master's student at the University of Chinese Academy of Scien
   <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white"/>
 </p>
 
----
+<!-- --- -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KuangjuX&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuangjuX&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
+</p> -->
