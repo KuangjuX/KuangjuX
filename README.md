@@ -35,10 +35,9 @@ I am a final-year master's student at the University of Chinese Academy of Scien
 **Microsoft Research Asia — System & Network Group** · Research Intern · *Feb 2024 – May 2025*
 - Based on the FractalTensor programming model, optimized GEMM, Back-to-Back GEMMs, Stacked/Dilated LSTM, and FlashAttention-2 using CUTLASS. Achieved up to **5.45× speedup** over SOTA on NVIDIA A100, with **2.14× average acceleration**.
 - As a core designer and developer, built [**TileFusion**](https://github.com/microsoft/TileFusion): an efficient C++ macro kernel template library that elevates the abstraction level in CUDA C for tile processing.
-- Mentored by Dr. Ying Cao. Co-first authored a paper published at **SOSP'24**.
+- Mentored by [Dr. Ying Cao](https://github.com/lcy-seso). Co-first authored a paper published at **SOSP'24**.
 
 **Tsinghua University — OS Laboratory** · Research Intern · *May 2023 – July 2023*
-- Mentored by Prof. Yu Chen and Dr. Yuekai Jia.
 - Wrote an Intel 82599 NIC driver in Rust (referencing DPDK for optimization) and integrated it into [**ArceOS**](https://github.com/arceos-org/arceos). Performed network performance benchmarking and optimization.
 - Developed a Type-2 hypervisor based on ArceOS capable of booting Linux; built [**Hypercraft**](https://github.com/KuangjuX/hypercraft) as a standalone VMM library.
 
