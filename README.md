@@ -15,25 +15,22 @@
 
 ### About Me
 
-I am a machine learning systems engineer on the WeLM team at Weixin Group, working on efficient LLM training and inference. My current focus is **sparse attention for long-context training**, including GPU kernel development, numerical validation, and performance evaluation. Previously, I worked on **FractalTensor** and **TileFusion** at Microsoft Research Asia and on Rust-based operating systems and virtualization. I am a co-first author of the FractalTensor paper at **SOSP 2024**.
+I am a machine learning systems engineer on the WeLM team at Weixin Group. My current work focuses on making **sparse attention practical for long-context LLM training** through GPU kernel and systems optimization. Previously, I worked on **FractalTensor** and **TileFusion** at Microsoft Research Asia and co-first-authored the FractalTensor paper at **SOSP 2024**. My earlier work focused on operating systems and virtualization in Rust.
 
 ### Research Interests
 
-`LLM Training & Inference` · `Sparse Attention` · `GPU Kernel Optimization` · `Deep Learning Compilers` · `Operating Systems` · `Virtualization`
+`ML Systems` · `Sparse Attention` · `GPU Kernel Optimization` · `Deep Learning Compilers`
 
 ---
 
 ### Experience
 
 **Weixin Group (WXG) — WeLM** · Machine Learning Systems Engineer · *July 2026 – Present*
-- Developing sparse attention kernels for long-context LLM training, with a focus on kernel library development, numerical validation, and performance evaluation ahead of training-system integration.
+- Building sparse attention kernels for long-context LLM training.
 
 **Weixin Group (WXG) — WeLM** · Machine Learning Systems Intern · *June 2025 – June 2026*
 - Implemented [**Light-DuoAttention**](https://github.com/KuangjuX/light-duoattention) using CuTeDSL for long-context inference and integrated it into [SGLang](https://github.com/sgl-project/sglang).
-- Explored NVSHMEM & DeepEP; built [**NVSHMEM-Tutorial**](https://github.com/KuangjuX/NVSHMEM-Tutorial) with hybrid CUDA IPC / RDMA communication for internal technical sharing.
-- Implemented **Ring Attention Forward** based on ThunderKittens using the LCF template, outperforming ring-flash-attention on short sequences. Implemented Flash Attention Backward based on LCF.
-- Performed performance analysis on MagiAttention, ZigZag Ring Attention, and ZigZag Flex Attention.
-- Investigated DSL design on NVIDIA Hopper architecture.
+- Explored GPU communication with NVSHMEM and DeepEP, and implemented distributed attention kernels with ThunderKittens.
 
 **Microsoft Research Asia — System & Network Group** · Research Intern · *Feb 2024 – May 2025*
 - Based on the FractalTensor programming model, optimized GEMM, Back-to-Back GEMMs, Stacked/Dilated LSTM, and FlashAttention-2 using CUTLASS. Achieved up to **5.45× speedup** over SOTA on NVIDIA A100, with **2.14× average acceleration**.
@@ -48,17 +45,10 @@ I am a machine learning systems engineer on the WeLM team at Weixin Group, worki
 
 ### Selected Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**Light-DuoAttention**](https://github.com/KuangjuX/light-duoattention) | CuTeDSL attention kernel for long-context inference, integrated with SGLang | ![Stars](https://img.shields.io/github/stars/KuangjuX/light-duoattention?style=flat) |
-| [**microsoft/TileFusion**](https://github.com/microsoft/TileFusion) | C++ macro kernel template library for tile processing across GPU memory hierarchy with TensorCore support | ![Stars](https://img.shields.io/github/stars/microsoft/TileFusion?style=flat) |
-| [**microsoft/FractalTensor**](https://github.com/microsoft/FractalTensor) | Programming framework for organizing DNN data as nested statically-shaped tensors with automatic compiler analysis | ![Stars](https://img.shields.io/github/stars/microsoft/FractalTensor?style=flat) |
-| [**NVSHMEM-Tutorial**](https://github.com/KuangjuX/NVSHMEM-Tutorial) | Build a DeepEP-like GPU communication buffer with NVSHMEM (hybrid CUDA IPC / RDMA) | ![Stars](https://img.shields.io/github/stars/KuangjuX/NVSHMEM-Tutorial?style=flat) |
-| [**ncu-cli**](https://github.com/KuangjuX/ncu-cli) | Rust CLI for analyzing Nsight Compute exports and comparing CUDA kernel profiles | ![Stars](https://img.shields.io/github/stars/KuangjuX/ncu-cli?style=flat) |
-| [**xv6-rust**](https://github.com/Ko-oK-OS/xv6-rust) | Reimplementation of MIT xv6-riscv in Rust; reference implementation for OSCOMP | ![Stars](https://img.shields.io/github/stars/Ko-oK-OS/xv6-rust?style=flat) |
-| [**arceos**](https://github.com/arceos-org/arceos) | Experimental modular OS in Rust — contributed hypervisor, ixgbe NIC driver, and network optimization | ![Stars](https://img.shields.io/github/stars/arceos-org/arceos?style=flat) |
-| [**Hypercraft**](https://github.com/KuangjuX/hypercraft) | VMM library in Rust for RISC-V / AArch64 virtualization, capable of booting Linux | ![Stars](https://img.shields.io/github/stars/KuangjuX/hypercraft?style=flat) |
-| [**hypocaust-2**](https://github.com/KuangjuX/hypocaust-2) | Hardware-assisted RISC-V hypervisor using H Extension; boots rCore, RT-Thread, and Linux | ![Stars](https://img.shields.io/github/stars/KuangjuX/hypocaust-2?style=flat) |
+| Project | Description |
+|---------|-------------|
+| [**TileFusion**](https://github.com/microsoft/TileFusion) | C++ template library for GPU tile computation |
+| [**FractalTensor**](https://github.com/microsoft/FractalTensor) | Programming framework for nested data parallelism in DNNs |
 
 ---
 
