@@ -26,7 +26,9 @@ I am a machine learning systems engineer on the WeLM team at Weixin Group. My cu
 ### Experience
 
 **Weixin Group (WXG) — WeLM** · Machine Learning Systems Engineer · *July 2026 – Present*
-- Building sparse attention kernels for long-context LLM training.
+- Developed a **sparse attention training library** spanning learned indexing, attention forward/backward, and KL distillation, with GPU implementations optimized for NVIDIA Hopper and Blackwell.
+- Developing **FP8 sparse attention** for prefill and decode, exploring mixed-precision computation and FP8 KV caching to balance memory footprint, numerical accuracy, and inference latency.
+- Conducted **algorithm–hardware co-design studies** of token- and block-sparse attention, using workload-based comparisons to guide sparsity granularity, head configuration, and data reuse.
 
 **Weixin Group (WXG) — WeLM** · Machine Learning Systems Intern · *June 2025 – June 2026*
 - Implemented [**Light-DuoAttention**](https://github.com/KuangjuX/light-duoattention) using CuTeDSL for long-context inference and integrated it into [SGLang](https://github.com/sgl-project/sglang).
